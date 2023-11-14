@@ -1,0 +1,202 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Chocolate Chip Cookies",
+        "category": "Cookies",
+        "image_url": "https://example.com/chocolate_chip_cookies.jpg",
+        "ingredients": [
+          "2 1/4 cups all-purpose flour",
+          "1/2 teaspoon baking soda",
+          "1 cup unsalted butter, room temperature",
+          "1/2 cup granulated sugar",
+          "1 cup packed light-brown sugar",
+          "1 teaspoon salt",
+          "2 teaspoons pure vanilla extract",
+          "2 large eggs",
+          "2 cups semisweet and/or milk chocolate chips"
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C).",
+          "In a large bowl, cream together the room temperature unsalted butter, granulated sugar, packed light-brown sugar, salt, and vanilla extract until the mixture is smooth and creamy.",
+          "Add the eggs one at a time, beating well after each addition.",
+          "In a separate bowl, whisk together the all-purpose flour and baking soda. Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+          "Stir in the semisweet and/or milk chocolate chips.",
+          "Drop rounded tablespoons of dough onto ungreased baking sheets, spacing them about 2 inches apart.",
+          "Bake for 10-12 minutes or until the edges are lightly golden.",
+          "Allow the cookies to cool on the baking sheets for a few minutes before transferring them to wire racks to cool completely."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Blueberry Muffins",
+        "category": "Muffins",
+        "image_url": "https://example.com/blueberry_muffins.jpg",
+        "ingredients": [
+          "1 1/2 cups all-purpose flour",
+          "3/4 cup granulated sugar",
+          "1/2 teaspoon salt",
+          "2 teaspoons baking powder",
+          "1/3 cup vegetable oil",
+          "1 large egg",
+          "1/3 cup milk",
+          "1 1/2 teaspoons vanilla extract",
+          "1 cup fresh or frozen blueberries"
+        ],
+        "instructions": [
+          "Preheat the oven to 400°F (200°C).",
+          "In a large bowl, whisk together the all-purpose flour, granulated sugar, salt, and baking powder.",
+          "In a separate bowl, mix together the vegetable oil, egg, milk, and vanilla extract.",
+          "Add the wet ingredients to the dry ingredients, stirring until just combined.",
+          "Fold in the blueberries.",
+          "Divide the batter evenly among muffin cups, filling each about 2/3 full.",
+          "Bake for 18-20 minutes or until a toothpick inserted into the center comes out clean.",
+          "Allow the muffins to cool in the pan for 5 minutes before transferring them to a wire rack to cool completely."
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Cinnamon Rolls",
+        "category": "Pastries",
+        "image_url": "https://example.com/cinnamon_rolls.jpg",
+        "ingredients": [
+          "1 cup warm milk",
+          "2 tablespoons active dry yeast",
+          "1/3 cup granulated sugar",
+          "1/2 cup unsalted butter, melted",
+          "1 teaspoon salt",
+          "4 cups all-purpose flour",
+          "1 large egg",
+          "Filling: 1 cup brown sugar, 2 1/2 tablespoons ground cinnamon, 1/3 cup unsalted butter"
+        ],
+        "instructions": [
+          "In a bowl, combine warm milk, active dry yeast, and a pinch of sugar. Let it sit for 5-10 minutes until frothy.",
+          "In a large bowl, mix the yeast mixture with sugar, melted butter, salt, and flour. Knead until the dough is smooth.",
+          "Place the dough in a lightly greased bowl, cover with a kitchen towel, and let it rise for 1-2 hours or until doubled in size.",
+          "Roll out the dough into a rectangle and spread a mixture of brown sugar, ground cinnamon, and melted butter over it.",
+          "Roll the dough tightly, then slice into even rolls.",
+          "Place the rolls in a greased baking dish and let them rise for another 30-60 minutes.",
+          "Preheat the oven to 375°F (190°C). Beat an egg and brush it over the rolls.",
+          "Bake for 25-30 minutes or until golden brown.",
+          "While the rolls are baking, you can prepare a simple glaze with powdered sugar and milk. Drizzle the glaze over the warm rolls once they're out of the oven."
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Lemon Poppy Seed Cake",
+        "category": "Cakes",
+        "image_url": "https://example.com/lemon_poppy_seed_cake.jpg",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1 1/2 teaspoons baking powder",
+          "1/2 teaspoon baking soda",
+          "1/2 teaspoon salt",
+          "1 cup unsalted butter, room temperature",
+          "1 cup granulated sugar",
+          "3 large eggs",
+          "1 teaspoon vanilla extract",
+          "1 tablespoon lemon zest",
+          "1/4 cup fresh lemon juice",
+          "1/2 cup buttermilk",
+          "2 tablespoons poppy seeds"
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C). Grease and flour a bundt cake pan.",
+          "In a medium bowl, whisk together the all-purpose flour, baking powder, baking soda, and salt.",
+          "In a large bowl, cream together the room temperature unsalted butter and granulated sugar until light and fluffy.",
+          "Add the eggs one at a time, beating well after each addition. Stir in the vanilla extract, lemon zest, and lemon juice.",
+          "Gradually add the dry ingredients to the wet ingredients, alternating with buttermilk. Begin and end with the dry ingredients.",
+          "Fold in the poppy seeds.",
+          "Pour the batter into the prepared bundt pan and smooth the top with a spatula.",
+          "Bake for 45-55 minutes or until a toothpick inserted into the center comes out clean.",
+          "Allow the cake to cool in the pan for 15 minutes before transferring it to a wire rack to cool completely."
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Raspberry Almond Bars",
+        "category": "Bars",
+        "image_url": "https://example.com/raspberry_almond_bars.jpg",
+        "ingredients": [
+          "1 cup unsalted butter, room temperature",
+          "1 cup granulated sugar",
+          "1 large egg",
+          "1 teaspoon almond extract",
+          "2 cups all-purpose flour",
+          "1/2 teaspoon salt",
+          "1/2 cup raspberry jam",
+          "1/2 cup sliced almonds"
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C). Grease a 9x13-inch baking dish.",
+          "In a large bowl, cream together the room temperature unsalted butter and granulated sugar until light and fluffy.",
+          "Beat in the egg and almond extract.",
+          "Gradually add the all-purpose flour and salt, mixing until just combined.",
+          "Press about two-thirds of the dough into the bottom of the prepared baking dish to form the crust.",
+          "Spread the raspberry jam evenly over the crust.",
+          "Crumble the remaining dough over the raspberry jam layer.",
+          "Sprinkle sliced almonds on top.",
+          "Bake for 25-30 minutes or until the edges are lightly golden.",
+          "Allow the bars to cool completely in the baking dish before cutting them into squares."
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Classic French Baguette",
+        "category": "Bread",
+        "image_url": "https://example.com/french_baguette.jpg",
+        "ingredients": [
+          "3 1/4 cups all-purpose flour",
+          "1 packet active dry yeast",
+          "1 1/2 teaspoons salt",
+          "1 1/4 cups warm water",
+          "1 tablespoon sugar",
+          "Cornmeal for dusting"
+        ],
+        "instructions": [
+          "In a small bowl, combine warm water, sugar, and active dry yeast. Let it sit for 5-10 minutes until frothy.",
+          "In a large bowl, mix the all-purpose flour and salt. Gradually add the yeast mixture, stirring until a dough forms.",
+          "Knead the dough on a floured surface for about 8-10 minutes or until it becomes smooth and elastic.",
+          "Place the dough in a lightly greased bowl, cover it with a kitchen towel, and let it rise in a warm place for 1-2 hours or until doubled in size.",
+          "Punch down the risen dough and turn it out onto a lightly floured surface. Divide it into two equal portions.",
+          "Shape each portion into a baguette and place them on a parchment-lined baking sheet sprinkled with cornmeal.",
+          "Cover the baguettes with a kitchen towel and let them rise for another 30-60 minutes.",
+          "Preheat the oven to 450°F (230°C). Make diagonal slashes on the top of each baguette with a sharp knife.",
+          "Bake for 15-20 minutes or until the baguettes are golden brown and sound hollow when tapped on the bottom.",
+          "Cool the baguettes on a wire rack before slicing and serving."
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Pumpkin Spice Muffins",
+        "category": "Muffins",
+        "image_url": "https://example.com/pumpkin_spice_muffins.jpg",
+        "ingredients": [
+          "1 3/4 cups all-purpose flour",
+          "1 teaspoon baking powder",
+          "1/2 teaspoon baking soda",
+          "1/2 teaspoon salt",
+          "1 teaspoon ground cinnamon",
+          "1/2 teaspoon ground ginger",
+          "1/4 teaspoon ground nutmeg",
+          "1/4 teaspoon ground cloves",
+          "1/2 cup unsalted butter, melted",
+          "1 cup canned pumpkin puree",
+          "1/2 cup granulated sugar",
+          "1/2 cup packed light-brown sugar",
+          "2 large eggs",
+          "1/4 cup milk",
+          "1 teaspoon vanilla extract"
+        ],
+        "instructions": [
+          "Preheat the oven to 375°F (190°C). Line a muffin tin with paper liners.",
+          "In a large bowl, whisk together the all-purpose flour, baking powder, baking soda, salt, cinnamon, ginger, nutmeg, and cloves.",
+          "In another bowl, mix together the melted unsalted butter, pumpkin puree, granulated sugar, brown sugar, eggs, milk, and vanilla extract until well combined.",
+          "Add the wet ingredients to the dry ingredients, stirring until just combined.",
+          "Divide the batter evenly among the muffin cups, filling each about 2/3 full.",
+          "Bake for 18-20 minutes or until a toothpick inserted into the center comes out clean.",
+          "Allow the muffins to cool in the tin for 5 minutes before transferring them to a wire rack to cool completely."
+        ]
+      }
+    ]
+}
